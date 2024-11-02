@@ -22,11 +22,11 @@ function Navbar() {
 
 const styles = {
   navbar: {
-    display: 'adust',
+    display: 'flex',
     gap: '10px',
     padding: '10px 20px',
-    backgroundColor: '#fff',
-    justifyContent: 'flex-end',
+    backgroundColor: '#ffffff',
+    justifyContent: 'flex-start',
   },
   navLink: {
     textDecoration: 'none',
